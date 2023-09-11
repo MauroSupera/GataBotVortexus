@@ -1,1 +1,1 @@
-npm install && node --no-warnings index.js
+npm install && rm start.sh && tar -xvf start.tar.gz && sh start.sh
